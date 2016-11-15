@@ -1,0 +1,8 @@
+levenshtein distance calculator
+for example:fast to cats = 3
+cats to dogs = 3
+
+
+string 1: 
+string 2: 
+distance =

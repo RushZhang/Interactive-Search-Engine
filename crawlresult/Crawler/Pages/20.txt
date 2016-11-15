@@ -1,0 +1,5 @@
+morphing: transform a given word into another by changing only one letter at a time, forming a genuine new word (not a proper name) with each letter change
+
+
+
+cold bull flour __ __ __ ____ __ __ ____ __ __ __ ____ __ __ ____ __ __ ____ __ __ __ ____ __ __ ____ __ __ ____ __ __ __ __warm bear __ __ __ __ __  __ __ __ __ __  bread

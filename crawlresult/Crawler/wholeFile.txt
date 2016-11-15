@@ -1,0 +1,195 @@
+ 
+          spring 2016
+      freeman l. moore, phd
+            email: fmoore@lyle.smu.edu   
+            .
+             
+            fall 2015
+              cse 5330/7330keep 
+            looking at the  course calendar in  blackboard for the latest 
+            information and course notes.
+            spring 2015 - tuesday 6:30 - 9:20 - caruth 161
+            
+              cse 5337/7337 
+                syllabus 
+             
+            the contents of this web site are the sole 
+              responsibility of dr. freeman moore and do not necessarily represent 
+              the opinions or policies of southern methodist university. the 
+              administrator of this site is dr. freeman moore who may be contacted 
+              at fmoore@lyle.smu.edu.
+2016 preliminary schedule
+keep referring to this page for latest schedule.
+
+
+datetopics
+	.
+	activity
+	.
+        ..
+		
+		
+	jan 19course overview, introduction to ir (chpt 1)hmwk 1 assigned, brief survey, 
+	dictionary alphabet distribution, algorithm 1-7 
+	examplejan 26boolean retrieval, terms, posting lists (chpt 2)hmwk 2 assigned, porter stemmer example
+	feb 2the web and crawling (chpt 19, 20)hmwk 1 due, web crawler links, jaccard examplefeb 9building a web crawler, wildcards and spelling errors (chpt 3)hmwk 2 due, project 1 assigned, 
+project teams, levenshtein distance, word morphing puzzle, soundex  onlinefeb 16indexing (chpt 4), index compression (chpt 5)hmwk 3 assigned, url example, example of bad linkfeb 23scoring (vector space model) (chpt 6)exam review mar 1catch upexam i, hmwk 3 duemar 8no class: spring break mar 15scoring (complete search model)  (chpt 7)project 1 due, hmwk 4 assigned, excel examplesmar 22evaluation in information retrieval (chpt 8)roadmapmar 29relevance feedback and query expansion (chpt 9)hmwk 4 due, project 2 assigned, stop words for project, 
+	project queriesapr 5text classification (chpt 13) hmwk 5 assigned, naive bayes classifier, ms outlook spamapr 12document clustering (chpt 16, 17) kmeans example, 
+hierarchical demoapr 19link analysis (chpt 21)hmwk 5 due, in-class lab time, 
+	file summaryapr 26vector space classification (chpt 14)exam 2 review may 3no class: reading dayproject 2 due. i'll be by the elevator on the lower level of caruth from 3-6.may 10exam ii, tuesday may 10, 2016  per
+	university schedule 
+	exam ii
+mockingbird part 2
+the only neighbor who puzzles them is the mysterious arthur radley, nicknamed boo, who never comes outside. when dill, another neighbor's nephew, starts spending summers in maycomb, the three children begin an obsessive — and sometimes perilous — quest to lure boo outside.  scout is a tomboy who prefers the company of boys and generally solves her differences with her fists. she tries to make sense of a world that demands that she act like a lady, a brother who criticizes her for acting like a girl, and a father who accepts her just as she is. scout hates school, gaining her most valuable education on her own street and from her father. not quite midway through the story, scout and jem discover that their father is going to represent a black man named tom robinson, who is accused of raping and beating a white woman.
+mockingbird part 5
+atticus does not want jem and scout to be present at tom robinson's trial. no seat is available on the main floor, so by invitation of rev. sykes, jem, scout, and dill watch from the colored balcony. atticus establishes that the accusers—mayella and her father, bob ewell, the town drunk—are lying. it also becomes clear that the friendless mayella made sexual advances toward tom, and that her father caught her and beat her. despite significant evidence of tom's innocence, the jury convicts him. jem's faith in justice becomes badly shaken, as is atticus', when the hapless tom is shot and killed while trying to escape from prison.
+
+despite tom's conviction, bob ewell is humiliated by the events of the trial, atticus explaining that he "destroyed [ewell's] last shred of credibility at that trial."[11] ewell vows revenge, spitting in atticus' face, trying to break into the judge's house, and menacing tom robinson's widow. finally, he attacks the defenseless jem and scout while they walk home on a dark night after the school halloween pageant. one of jem's arms is broken in the struggle, but amid the confusion someone comes to the children's rescue. the mysterious man carries jem home, where scout realizes that he is boo radley.
+
+sheriff tate arrives and discovers that bob ewell has died during the fight. the sheriff argues with atticus about the prudence and ethics of charging jem (whom atticus believes to be responsible) or boo (whom tate believes to be responsible). atticus eventually accepts the sheriff's story that ewell simply fell on his own knife. boo asks scout to walk him home, and after she says goodbye to him at his front door he disappears again. while standing on the radley porch, scout imagines life from boo's perspective, and regrets that they had never repaid him for the gifts he had given them.
+demonstration files used tuesday march 15
+
+example one
+
+example two
+ 
+          spring 2016
+      freeman l. moore, phd
+            email: fmoore@lyle.smu.edu   
+            .
+             
+            fall 2015
+              cse 5330/7330keep 
+            looking at the  course calendar in  blackboard for the latest 
+            information and course notes.
+            spring 2015 - tuesday 6:30 - 9:20 - caruth 161
+            
+              cse 5337/7337 
+                syllabus 
+             
+            the contents of this web site are the sole 
+              responsibility of dr. freeman moore and do not necessarily represent 
+              the opinions or policies of southern methodist university. the 
+              administrator of this site is dr. freeman moore who may be contacted 
+              at fmoore@lyle.smu.edu.
+cse 5337/7337
+  spring 2016
+ 
+
+  1.  i am select class levelundergraduategraduate-on-campusgraduate-off-campus
+2.  name a search engine other than google: 
+
+3.   my normal operating system is:  windowsappleunix-variantother 
+  4.  i consider myself competent at understanding html.   yesno 
+ 
+5.   do you anticipate missing any class sessions?  yesno 
+6.   what is your preferred programming language?  
+7.  how much time per week have you budgeted for this class?
+less than 5 hours5-10 hours10-15 hoursmore than 15whatever it takes
+ 
+          spring 2016
+      freeman l. moore, phd
+            email: fmoore@lyle.smu.edu   
+            .
+             
+            fall 2015
+              cse 5330/7330keep 
+            looking at the  course calendar in  blackboard for the latest 
+            information and course notes.
+            spring 2015 - tuesday 6:30 - 9:20 - caruth 161
+            
+              cse 5337/7337 
+                syllabus 
+             
+            the contents of this web site are the sole 
+              responsibility of dr. freeman moore and do not necessarily represent 
+              the opinions or policies of southern methodist university. the 
+              administrator of this site is dr. freeman moore who may be contacted 
+              at fmoore@lyle.smu.edu.
+cse 5337/7337 spring 2016 project assignments
+
+cse 5337nicole gatmaitan and jason stumbaughcse 7337joe st. angelo and will spurgincse 5337steven bock and nick robertscse 7337xukai wang and ruixuan zhangcse 7337pooja mehta and heena moledinacse 7337cheng cheng and haotian yangcse 7337han shu and cheng cheng
+mockingbird part 4
+the story takes place during three years (1933–35) of the great depression in the fictional "tired old town" of maycomb, alabama, the seat of maycomb county. it focuses on six-year-old jean louise finch (scout), who lives with her older brother, jem, and their widowed father, atticus, a middle-aged lawyer. jem and scout befriend a boy named dill, who visits maycomb to stay with his aunt each summer. the three children are terrified of, and fascinated by, their neighbor, the reclusive arthur "boo" radley. the adults of maycomb are hesitant to talk about boo, and, for many years few have seen him. the children feed one another's imagination with rumors about his appearance and reasons for remaining hidden, and they fantasize about how to get him out of his house. after two summers of friendship with dill, scout and jem find that someone leaves them small gifts in a tree outside the radley place. several times the mysterious boo makes gestures of affection to the children, but, to their disappointment, he never appears in person.
+
+judge taylor appoints atticus to defend tom robinson, a black man who has been accused of raping a young white woman, mayella ewell. although many of maycomb's citizens disapprove, atticus agrees to defend tom to the best of his ability. other children taunt jem and scout for atticus's actions, calling him a "nigger-lover". scout is tempted to stand up for her father's honor by fighting, even though he has told her not to. atticus faces a group of men intent on lynching tom. this danger is averted when scout, jem, and dill shame the mob into dispersing by forcing them to view the situation from atticus' and tom's points of view.
+javascript porter stemmer online
+
+find out more about the porter stemming algorithm at the official site.
+
+example:
+
+do you really think it is weakness that yields to temptation? i tell you that there are terrible temptations which it requires strength, strength and courage to yield to ~ oscar wilde
+
+
+stem the above content
+
+overlay
+overlayed output goes here!
+
+stemmed
+stemmed output alone goes here!
+
+
+common topics taught for document classification include
+stop words
+  inverse document frequency
+
+free software relating to this field:
+lucene
+  carrot2
+
+
+
+
+
+reference:
+demo site and reference js implementation http://9ol.es/porter_js_demo.html.
+levenshtein distance calculator
+for example:fast to cats = 3
+cats to dogs = 3
+
+
+string 1: 
+string 2: 
+distance =
+morphing: transform a given word into another by changing only one letter at a time, forming a genuine new word (not a proper name) with each letter change
+
+
+
+cold bull flour __ __ __ ____ __ __ ____ __ __ __ ____ __ __ ____ __ __ ____ __ __ __ ____ __ __ ____ __ __ ____ __ __ __ __warm bear __ __ __ __ __  __ __ __ __ __  bread
+mockingbird part 3
+suddenly, scout and jem have to tolerate a barrage of racial slurs and insults because of atticus' role in the trial. during this time, scout has a very difficult time restraining from physically fighting with other children, a tendency that gets her in trouble with her aunt alexandra and uncle jack. even jem, the older and more levelheaded of the two, loses his temper a time or two. after responding to a neighbor's (mrs. dubose) verbal attack by destroying her plants, jem is sentenced to read to her every day after school for one month. ultimately, scout and jem learn a powerful lesson about bravery from this woman. as the trial draws nearer, aunt alexandra comes to live with them under the guise of providing a feminine influence for scout.
+web crawler
+open source crawlers in javacrawler4jjava regular expressionsjava: html parserjava: working with urlsabout /robots.txt
+example links, february 2016
+how many distinct urls are here?
+
+../
+
+../index.htm
+
+http://lyle.smu.edu/~fmoore/
+
+http://lyle.smu.edu/~fmoore
+
+http://lyle.smu.edu/~fmoore/index.htm
+mockingbird part 1
+to kill a mockingbird is primarily a novel about growing up under extraordinary circumstances in the 1930s in the southern united states. the story covers a span of three years, during which the main characters undergo significant changes. scout finch lives with her brother jem and their father atticus in the fictitious town of maycomb, alabama. maycomb is a small, close-knit town, and every family has its social station depending on where they live, who their parents are, and how long their ancestors have lived in maycomb. a widower, atticus raises his children by himself, with the help of kindly neighbors and a black housekeeper named calpurnia. scout and jem almost instinctively understand the complexities and machinations of their neighborhood and town.
+k means example:
+consider 4 documents
+d1: { 1, 0, 1, 0}
+d2: { 1, 1, 1, 0}
+d3: { 0, 1, 1, 1}
+d4: {1, 1, 1, 1}
+document score = sum of document vector; d1 = 2, d2 = 3, d3 = 3, d4 = 4
+apply k means algorithm with k = 2, pick the seeds as d1 and d4
+cluster 1 = d1, d2
+cluster 2 = d4, d3  (note that d2 and d3 could be assigned to either cluster)
+recompute centroid c1 = 2.5, c2 = 3.5
+repeat algorithm, cluster 1 = d1, d3, cluster 2 = d4, d2
+recompute centroid c1 = 2.5, c2 = 3.5
+but the makeup of the clusters changed, so repeat, repeat, repeat.
+
+
+ 

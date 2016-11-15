@@ -1,0 +1,14 @@
+cse 5337/7337
+  spring 2016
+ 
+
+  1.  i am select class levelundergraduategraduate-on-campusgraduate-off-campus
+2.  name a search engine other than google: 
+
+3.   my normal operating system is:  windowsappleunix-variantother 
+  4.  i consider myself competent at understanding html.   yesno 
+ 
+5.   do you anticipate missing any class sessions?  yesno 
+6.   what is your preferred programming language?  
+7.  how much time per week have you budgeted for this class?
+less than 5 hours5-10 hours10-15 hoursmore than 15whatever it takes

@@ -1,0 +1,12 @@
+example links, february 2016
+how many distinct urls are here?
+
+../
+
+../index.htm
+
+http://lyle.smu.edu/~fmoore/
+
+http://lyle.smu.edu/~fmoore
+
+http://lyle.smu.edu/~fmoore/index.htm

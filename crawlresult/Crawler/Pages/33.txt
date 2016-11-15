@@ -1,0 +1,17 @@
+k means example:
+consider 4 documents
+d1: { 1, 0, 1, 0}
+d2: { 1, 1, 1, 0}
+d3: { 0, 1, 1, 1}
+d4: {1, 1, 1, 1}
+document score = sum of document vector; d1 = 2, d2 = 3, d3 = 3, d4 = 4
+apply k means algorithm with k = 2, pick the seeds as d1 and d4
+cluster 1 = d1, d2
+cluster 2 = d4, d3  (note that d2 and d3 could be assigned to either cluster)
+recompute centroid c1 = 2.5, c2 = 3.5
+repeat algorithm, cluster 1 = d1, d3, cluster 2 = d4, d2
+recompute centroid c1 = 2.5, c2 = 3.5
+but the makeup of the clusters changed, so repeat, repeat, repeat.
+
+
+ 

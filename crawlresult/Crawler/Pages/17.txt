@@ -1,0 +1,32 @@
+javascript porter stemmer online
+
+find out more about the porter stemming algorithm at the official site.
+
+example:
+
+do you really think it is weakness that yields to temptation? i tell you that there are terrible temptations which it requires strength, strength and courage to yield to ~ oscar wilde
+
+
+stem the above content
+
+overlay
+overlayed output goes here!
+
+stemmed
+stemmed output alone goes here!
+
+
+common topics taught for document classification include
+stop words
+  inverse document frequency
+
+free software relating to this field:
+lucene
+  carrot2
+
+
+
+
+
+reference:
+demo site and reference js implementation http://9ol.es/porter_js_demo.html.

@@ -1,0 +1,36 @@
+http://lyle.smu.edu/~fmoore/
+Number of outgoing links:5
+http://lyle.smu.edu/~fmoore/schedule.htm
+Number of outgoing links:34
+http://lyle.smu.edu/~fmoore/misc/mockingbird2.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/mockingbird5.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/excel-examples.html
+Number of outgoing links:3
+http://lyle.smu.edu/~fmoore/index_duplicate.htm
+Number of outgoing links:5
+http://lyle.smu.edu/~fmoore/spring2016_intro_survey.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/index.htm
+Number of outgoing links:5
+http://lyle.smu.edu/~fmoore/misc/projectteams.htm
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/mockingbird4.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/porter_stemmer_example.html
+Number of outgoing links:7
+http://lyle.smu.edu/~fmoore/misc/levenshtein.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/word_morphing_puzzle.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/mockingbird3.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/webcrawler.htm
+Number of outgoing links:6
+http://lyle.smu.edu/~fmoore/misc/urlexample1.htm
+Number of outgoing links:3
+http://lyle.smu.edu/~fmoore/misc/mockingbird1.html
+Number of outgoing links:0
+http://lyle.smu.edu/~fmoore/misc/k-means.html
+Number of outgoing links:0

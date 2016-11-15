@@ -1,0 +1,1 @@
+k means example consider documents d d d d document score sum document vector d d d d apply k means algorithm k pick seeds d and d cluster d d cluster d d note d and d could assigned either cluster recompute centroid c c repeat algorithm cluster d d cluster d d recompute centroid c c but makeup clusters changed so repeat repeat repeat 
